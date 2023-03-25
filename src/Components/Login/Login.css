@@ -1,0 +1,48 @@
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(14, 123, 157);
+    width: 60vh;
+    height: 60vh;
+    margin-left: 37%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+
+.main-container > h3{
+    font-size: 50px;
+    margin-top: -10%;
+}
+.input-section{
+    width: 90%;
+    height: 2vh;
+    background-color: white;
+}
+
+.input-fields{
+    width: 70%;
+    height: 5vh;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+}
+
+.labels{
+    font-size: 25px;
+    margin-right: 40%;
+    margin-bottom: 3%;
+    border-radius: 10px;
+}
+
+.btn{
+    width: 70%;
+    height: 5vh;
+    margin-top: 7%;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+}
