@@ -1,0 +1,45 @@
+.title-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../assets/WEB-900x614.jpg");
+    height: auto;
+}
+
+.title{
+    width: 50%;
+    height: 7vh;
+    border-radius: 10px;
+    color: rgb(176, 17, 17);
+}
+
+.description{
+    width: 50%;
+    height: 40vh;
+    margin-bottom: 3%;
+    border-radius: 10px;
+
+}
+
+.post-btn{
+    width: 50%;
+    height: 5vh;
+    
+    border-radius: 10px;
+    background-color: rgb(37, 137, 173);
+    color: aliceblue;
+    font-size: 20px
+}
+.post-btn:hover{
+    background-color:  rgb(8, 69, 94);
+    color: aliceblue;
+}
+
+.labels-title{
+    margin-right: 5%;
+    margin-top: 3%;
+    font-size: 30px;
+    margin-bottom: 7px;
+    color: rgb(17, 173, 176);
+}

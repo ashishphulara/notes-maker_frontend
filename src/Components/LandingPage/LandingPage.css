@@ -1,0 +1,20 @@
+.landing-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../assets/WEB-900x614.jpg");
+    height: auto;
+}
+.next-description{
+    width: 70%;
+    height: 60vh;
+    margin-top: 10%;
+}
+
+.landing-title{
+    font-size: 30px;
+    margin-top: 5%;
+    margin-bottom: -8%;
+    color: brown;
+}
